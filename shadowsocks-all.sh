@@ -69,8 +69,8 @@ shadowsocks_go_debian="https://raw.githubusercontent.com/yigeni/Shadowsocks/mast
 
 shadowsocks_libev_init="/etc/init.d/shadowsocks-libev"
 shadowsocks_libev_config="/etc/shadowsocks-libev/config.json"
-shadowsocks_libev_centos="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev"
-shadowsocks_libev_debian="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev-debian"
+shadowsocks_libev_centos="https://raw.githubusercontent.com/yigeni/Shadowsocks/master/shadowsocks-libev"
+shadowsocks_libev_debian="https://raw.githubusercontent.com/yigeni/Shadowsocks/master/shadowsocks-libev-debian"
 
 # Stream Ciphers
 common_ciphers=(
