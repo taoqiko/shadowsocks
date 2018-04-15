@@ -59,9 +59,9 @@ shadowsocks_r_centos="https://raw.githubusercontent.com/yigeni/Shadowsocks/maste
 shadowsocks_r_debian="https://raw.githubusercontent.com/yigeni/Shadowsocks/master/shadowsocksR-debian"
 
 shadowsocks_go_file_64="shadowsocks-server-linux64-1.2.1"
-shadowsocks_go_url_64="https://dl.lamp.sh/shadowsocks/shadowsocks-server-linux64-1.2.1.gz"
+shadowsocks_go_url_64="https://raw.githubusercontent.com/yigeni/Shadowsocks/master/shadowsocks-server-linux64-1.2.1.gz"
 shadowsocks_go_file_32="shadowsocks-server-linux32-1.2.1"
-shadowsocks_go_url_32="https://dl.lamp.sh/shadowsocks/shadowsocks-server-linux32-1.2.1.gz"
+shadowsocks_go_url_32="https://raw.githubusercontent.com/yigeni/Shadowsocks/master/shadowsocks-server-linux32-1.2.1.gz"
 shadowsocks_go_init="/etc/init.d/shadowsocks-go"
 shadowsocks_go_config="/etc/shadowsocks-go/config.json"
 shadowsocks_go_centos="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-go"
